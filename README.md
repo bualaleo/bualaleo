@@ -26,5 +26,9 @@ Here are some ideas to get you started:
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 <a href=”https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/”><img src=”https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
 </div>
