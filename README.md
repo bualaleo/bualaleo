@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Buala Leonardo Hulu, I'm a Application Developer. Check <a href="https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Buala Leonardo Hulu, I'm a Junior Application Developer. Check <a href="https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/">ℹ️</a> For More Information.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/buala_leonardo)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bualaleo)
@@ -10,7 +10,7 @@
 
 #### I'm from Medan, North Sumatera lives in Bandung, West Java
 - 🔭 I’m currently working on Junior App Developer at PT. Mitra Integrasi Informatika
-- 🌱 I’m currently learning C# ASP.NET and Javascript
+- 🌱 I’m currently learning C# ASP.NET, AjaxJavascript and Jquery
 - ⚡ Fun fact: I like Travelling, Coffee, Valorant
 
 
