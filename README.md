@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Junior App Developer at PT. Mitra Integrasi Informatika
+- 🌱 I’m currently learning C# ASP.NET and Javascript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like Travelling
 -->
 
 <div align="center">
@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bualaleo?color=blue&style=social)
 </div>
+
+#### I'm from Medan, North Sumatera lives in Bandung, West Java
+- 🔭 I’m currently working on Junior App Developer at PT. Mitra Integrasi Informatika
+- 🌱 I’m currently learning C# ASP.NET and Javascript
+- ⚡ Fun fact: I like Travelling
