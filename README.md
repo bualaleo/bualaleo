@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **bualaleo/bualaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Rifqi, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 
-[![](https://img.shields.io/badge/-@rief.rosyidi-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/bualaleo?color=blue&style=social)
-[![](https://img.shields.io/badge/-rief_rosyidi-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/rief_rosyidi)  
+
 </div>
