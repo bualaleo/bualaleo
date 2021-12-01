@@ -1,20 +1,3 @@
-
-
-<!--
-**bualaleo/bualaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Junior App Developer at PT. Mitra Integrasi Informatika
-- 🌱 I’m currently learning C# ASP.NET and Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like Travelling
--->
-
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
@@ -31,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like Travelling, Coffee, Valorant
 
 
-#### Languages:
+## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,7 +26,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <br/> <br/>
 
-#### Framework:
+## 🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 <img align="left" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
@@ -60,7 +43,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <br/> <br/> <br/>
 
-#### IDE:
+## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
 <img align="left" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
@@ -69,25 +52,28 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
 <br/> <br/>
 
-#### Data:
+## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 <img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <br/> <br/>
 
-#### Design:
+## 🖍📐 Design [🔝](#welcome-badges-4-readmemd-profile)
 <img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 <img align="left" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 <br/> <br/>
 
-#### OS:
+## 💡 Prototyping Platforms [🔝](#welcome-badges-4-readmemd-profile)
+<img align="left" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+
+## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
 <br/> <br/>
 
-#### Office:
+## 👨‍💻 Office [🔝](#welcome-badges-4-readmemd-profile)
 <img align="left" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -96,12 +82,12 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <br/> <br/> <br/>
 
-#### Games:
+## 🎮🕹 Games [🔝](#welcome-badges-4-readmemd-profile)
 <img align="left" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
 <br/> <br/>
 
-#### Other Contact:
+## 🎶 Other Contact [🔝](#welcome-badges-4-readmemd-profile
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5cbv6nrs12rjrh8l90nnbc1b6?si=FZsiFan2RZq5dJCiy2uO0g&utm_source=copy-link)
 <br/> <br/>
 
