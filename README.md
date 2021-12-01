@@ -25,7 +25,7 @@
 <img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-<br/> <br/>
+<br/> <br/> <br/>
 
 ## 🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 <p>
@@ -44,7 +44,7 @@
 <img align="left" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=whit" />
 <img align="left" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
  </p>
-<br/> <br/> <br/>
+<br/> <br/> <br/><br/><br/><br/>
 
 ## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
 <p>
@@ -55,7 +55,7 @@
 <img align="left" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 <img align="left" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
 </p>
-<br/> <br/> <br/>
+<br/> <br/> <br/><br/>
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 <p>
