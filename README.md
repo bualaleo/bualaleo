@@ -88,7 +88,7 @@
 <img align="left" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
 <br/> <br/>
 
-## 🎶 Other Contact [🔝](#welcome-badges-4-readmemd-profile
+## 🎶 Other Contact [🔝](#welcome-badges-4-readmemd-profile)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5cbv6nrs12rjrh8l90nnbc1b6?si=FZsiFan2RZq5dJCiy2uO0g&utm_source=copy-link)
 <br/> <br/>
 
