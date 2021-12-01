@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 #### I'm from Medan, North Sumatera lives in Bandung, West Java
 - 🔭 I’m currently working on Junior App Developer at PT. Mitra Integrasi Informatika
 - 🌱 I’m currently learning C# ASP.NET and Javascript
-- ⚡ Fun fact: I like Travelling
+- ⚡ Fun fact: I like Travelling, Coffee, Valorant
