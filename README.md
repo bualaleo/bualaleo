@@ -105,9 +105,19 @@ Here are some ideas to get you started:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5cbv6nrs12rjrh8l90nnbc1b6?si=FZsiFan2RZq5dJCiy2uO0g&utm_source=copy-link)
 <br/> <br/>
 
-## 🔁 Dynamic [🔝](#welcome-badges-4-readmemd-profile)
+## 🔁 Stats [🔝](#welcome-badges-4-readmemd-profile)
+<a href="https://bualaleo.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=bualaleo&column=7&theme=onedark"/>
+    </p>
+</a>
+
 <a align="center" href="https://bualaleo.github.io">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=bualaleo&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bualaleo&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
     </p>
 </a>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=bualaleo&color=brightgreen&style=flat-square" alt="profile_views"/>
+</p>
