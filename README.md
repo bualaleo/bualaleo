@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+<h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Buala Leonardo Hulu, I'm a Application Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Rifqi, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 
-[![](https://img.shields.io/twitter/follow/bualaleo?style=social](https://twitter.com/bualaleo)
-[![](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbuala-leonardo-hulu-3763071b8%2F)](https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/)  
+[![](https://img.shields.io/badge/-@rief.rosyidi-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
+[![](https://img.shields.io/twitter/follow/bualaleo?style=social/-rief014-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Rief014)
+[![](https://img.shields.io/badge/-rief_rosyidi-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/rief_rosyidi)  
 </div>
