@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <br/> <br/>
 
-#### FrameWork:
+#### Framework:
 <img align="left" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
@@ -104,3 +104,7 @@ Here are some ideas to get you started:
 #### Other Contact:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5cbv6nrs12rjrh8l90nnbc1b6?si=FZsiFan2RZq5dJCiy2uO0g&utm_source=copy-link)
 <br/> <br/>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=bualaleo&color=brightgreen&style=flat-square" alt="profile_views"/>
+</p>
