@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+<p>Welcome to My Profile</p>
+<p>Hi, I'm Buala Leonardo Hulu, I'm a Application Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+
+[![](https://img.shields.io/twitter/follow/bualaleo?style=social](https://twitter.com/bualaleo)
+[![](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbuala-leonardo-hulu-3763071b8%2F)](https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/)  
+</div>
