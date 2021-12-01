@@ -106,5 +106,5 @@ Here are some ideas to get you started:
 <br/> <br/>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=bualaleo&color=brightgreen&style=flat-square" alt="profile_views"/>
+ <img src="https://komarev.com/ghpvc/?username=bualaleo&color=brightgreen&style=flat-square"/>
 </p>
