@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bualaleo?color=blue&style=social)
+  <a href=”LinkedIn profile URL”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
 <a href=”https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/”><img src=”https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue"></a>
 
 </div>
