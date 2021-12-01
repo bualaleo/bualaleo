@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bualaleo?color=blue&style=social)
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/
 </div>
 
 #### I'm from Medan, North Sumatera lives in Bandung, West Java
