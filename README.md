@@ -28,3 +28,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Junior App Developer at PT. Mitra Integrasi Informatika
 - 🌱 I’m currently learning C# ASP.NET and Javascript
 - ⚡ Fun fact: I like Travelling, Coffee, Valorant
+
+
+#### Languages:
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C#/C#.png" />
+<br/>  
+
