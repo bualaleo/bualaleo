@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/bualaleo?color=blue&style=social)
-![Custom badge](https://img.shields.io/label=buala%20Leonardo%20Hulu&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbuala-leonardo-hulu-3763071b8%2F)
+![Custom badge](https://img.shields.io/https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/)
 
 </div>
