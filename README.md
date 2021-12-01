@@ -106,9 +106,7 @@
 <br/> <br/>
 
 ## 🎶 Other Contact [🔝](#welcome-badges-4-readmemd-profile)
-<p>
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5cbv6nrs12rjrh8l90nnbc1b6?si=FZsiFan2RZq5dJCiy2uO0g&utm_source=copy-link)
-</p>
 <br/> <br/>
 
 ## 🔁 Stats [🔝](#welcome-badges-4-readmemd-profile)
