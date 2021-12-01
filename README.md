@@ -95,7 +95,7 @@
 ## 🔁 Stats [🔝](#welcome-badges-4-readmemd-profile)
 <a align="center" href="https://bualaleo.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bualaleo&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bualaleo&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bualaleo&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="200">
     </p>
 </a>
 
