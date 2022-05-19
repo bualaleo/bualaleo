@@ -8,8 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buala-leonardo-hulu-3763071b8/)
 </div>
 
-#### I'm from Medan, North Sumatera lives in Bandung, West Java
-- 🔭 I’m currently working on Junior Application Developer at PT. Mitra Integrasi Informatika, and currently work project site at PT. Bank Negara Indonesia as FullStack .NET Developer  
+#### I'm from Medan, North Sumatera lives in Jakarta Barat, DKI Jakarta
+- 🔭 I’m currently working on Junior Application Developer at PT. Mitra Integrasi Informatika
 - 🌱 I’m currently learning C# ASP.NET Core, Javascript and Jquery
 - ⚡ Fun fact: I like Travelling, Coffee, Valorant, Badminton, Futsal, Chess
 
